@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ジャンキーナイトタウンオーケストラ",
+  "base_track": "ジャンキーナイトタウンオーケストラ / 本人が歌った（feat. 鏡音レン）",
   "base_artist": "すりぃ",
-  "createdAt": "2025-12-01T14:06:51.235014Z",
+  "createdAt": "2025-12-27T17:47:06.168349Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,38 +43,6 @@
       "artist": "すりぃ",
       "has_synced": false,
       "path": "select/pl_01_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ジャンキーナイトタウンオーケストラ",
-      "artist": "すりぃ",
-      "has_synced": false,
-      "path": "select/pl_02_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "ジャンキーナイトタウンオーケストラ",
-      "artist": "すりぃ",
-      "has_synced": false,
-      "path": "select/pl_03_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ジャンキーナイトタウンオーケストラ",
-      "artist": "すりぃ",
-      "has_synced": false,
-      "path": "select/pl_04_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ジャンキーナイトタウンオーケストラ",
-      "artist": "すりぃ",
-      "has_synced": false,
-      "path": "select/pl_05_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
     }
   ]
 }
